@@ -1,1 +1,1 @@
-dfhdh
+print("Hello Git 3!")
